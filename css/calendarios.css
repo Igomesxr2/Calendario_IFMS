@@ -1,0 +1,41 @@
+.segunda{
+    background-color: rgb(56, 56, 226);
+}
+
+.terça{
+    background-color: rgb(56, 56, 226);
+}
+
+.quarta{
+    background-color: rgb(56, 56, 226);
+}
+
+.quinta{
+    background-color: rgb(56, 56, 226);
+}
+
+.sexta{
+    background-color: rgb(56, 56, 226);
+}
+
+.horarios{
+    width: 105px;
+}
+
+.horas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vazio{
+    background-color: white;
+}
+
+.title{
+    background-color: white;
+}
+
+.permanencia{
+    background-color: yellow;
+}

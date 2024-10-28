@@ -3,20 +3,9 @@
     "short_name": "Primeira PWA",
     "icons": [
         {
-            "src": "images/pwa-icon-256.png",
-            "sizes": "256x256",
+            "src": "images/ifms.png",
+            "sizes": "50x50",
             "type": "image/png"
-        },
-        {
-            "src": "images/pwa-icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "images/pwa-icon-256.png",
-            "sizes": "256x256",
-            "type": "image/png",
-            "purpose": "maskable"
         }
     ],
     "lang": "pt-BR",

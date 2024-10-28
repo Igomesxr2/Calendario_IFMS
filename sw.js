@@ -1,5 +1,5 @@
 let cacheName = "cache-calendario";
-let filesToCache = ["/", "/index.html","/calendario.html","/css/calendarios.css",  "/js/main.js"];
+let filesToCache = ["/", "/index.html","/calendario.html","/permanencia.html","/css/calendarios.css","/css/permanencia.css","/css/index.css",  "/js/main.js", "/images/ifms.png"];
 
 /* inicializando a service worker e fazendo o 
 download do conteúdo da aplicação */

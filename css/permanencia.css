@@ -14,7 +14,7 @@ body {
 }
 
 table {
-    width: 100%;
+    width: 100% ;
     border-collapse: collapse;
     margin-top: 20px;
 }
@@ -41,34 +41,13 @@ table {
     text-align: center;
 }
 
-table td, table th {
+table th, table td {
+    width: 100px;
+    height: 60px;
     padding: 10px;
     text-align: center;
     vertical-align: middle;
-}
-
-.ead, .ufms {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 20px;
-}
-
-.ead::before, .ufms::before {
-    content: "";
-    display: inline-block;
-    width: 15px;
-    height: 15px;
-    margin-right: 10px;
-    vertical-align: middle;
-    border-radius: 2px;
-}
-
-.ead::before {
-    background-color: yellow;
-}
-
-.ufms::before {
-    background-color: rgb(56, 56, 226);
+    border: 1px solid #333;
 }
 
 header {
